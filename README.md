@@ -1,4 +1,4 @@
-# 🌊 Smart Wastewater Treatment Plant (WWTP) Analysis
+# 🌊 Smart Wastewater Treatment Plant (WWTP) Analysis [Find it here!](https://github.com/AyushiKashyapp/Waste-Water-Treatment-Plant/blob/main/Waste_Water_Treatment_Plant.ipynb)
 
 Welcome to this project repository! 🚀
 This project explores **data analysis, visualization, and forecasting** for a Wastewater Treatment Plant (WWTP). Using modern machine learning and time-series modeling, it investigates how inflows, outflows, pollutants, rainfall, and energy consumption interact, and how future system behavior can be predicted.
